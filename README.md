@@ -1,13 +1,4 @@
 
-
-# Micrfrontends
-
-- Exemplos
-
-
-
-
-
 # Microfrontends
 
 - Exemplos
